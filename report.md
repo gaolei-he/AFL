@@ -92,7 +92,7 @@
   - 命令行：`./afl-fuzz -i inputs -o outputs -- ./test`；稳定性 100%。
 
 - **仪表盘截图**：
-  ![image-20260106161626589](C:\Users\whoami\AppData\Roaming\Typora\typora-user-images\image-20260106161626589.png)
+  ![image-20260106161626589](image-20260106161626589.png)
 
 - **调试与观察要点**：
 
